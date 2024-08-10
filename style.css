@@ -50,6 +50,7 @@ header ul li a{
     width: 1.5rem;
     margin-left: 12px;
     margin-top: 1rem;
+    cursor: pointer;
 }
 .contact-icons{
     color: white;
